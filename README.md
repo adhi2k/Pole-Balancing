@@ -3,7 +3,7 @@
 <H1 ALIGN=CENTER> Experiment-1: Implementation of Bayesian Networks</H1>
 
 ### Name: Adhithya K
-### Register Number:   
+### Register Number:   2305002001
 
 
 ## Aim:
